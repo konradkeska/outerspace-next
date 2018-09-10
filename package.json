@@ -7,6 +7,18 @@
   "engines": {
     "vscode": "^1.27.0"
   },
+  "icon": "images/logo.png",
+  "keywords": [
+    "Color theme",
+    "Dark theme",
+    "FluoGreen",
+    "High contrast",
+    "Outerspace Next"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konradkeska/outerspace-next"
+  },
   "categories": [
     "Themes"
   ],
