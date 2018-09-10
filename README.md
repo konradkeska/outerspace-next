@@ -1,21 +1,24 @@
 # Outerspace Next theme for VS Code
 
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/js-react.png)
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/scss.png)
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/json.png)
+[![installs](https://vsmarketplacebadge.apphb.com/installs/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
+[![rating](https://vsmarketplacebadge.apphb.com/rating/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
+
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/js-react.jpg)
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/scss.jpg)
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/json.jpg)
 
 Dark high contrast theme with fluo green as main color, really good for those who like to code at night.
 
 This theme is a mix-up of popular themes I've used before but I felt something was missing in each one of those, my biggest inspiration was:
 
-- **Night Owl**
+- [**Night Owl**](https://github.com/sdras/night-owl-vscode-theme)
 
 but, also:
 
-- **Cyber Punk**
-- **Oceanic Next**
-- **Cobalt2**
-- **Nord**
+- [**Cyber Punk**](https://github.com/prometheux-ar/cyberpunk)
+- [**Oceanic Next**](https://github.com/mhartington/oceanic-next)
+- [**Cobalt2**](https://github.com/wesbos/cobalt2-vscode)
+- [**Nord**](https://github.com/arcticicestudio/nord)
 
 This theme is sort of a mix up of the ones I listed above. Basically I just took what I liked the most from those themes and customised them a little more.
 
