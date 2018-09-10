@@ -503,7 +503,7 @@
     "welcomePage.buttonBackground": "#001628",
     "welcomePage.buttonHoverBackground": "#001628",
     "walkThrough.embeddedEditorBackground": "#001628",
-    "gitDecoration.modifiedResourceForeground": "#a2bffc",
+    "gitDecoration.modifiedResourceForeground": "#0dab7690",
     "gitDecoration.deletedResourceForeground": "#EF535090",
     "gitDecoration.untrackedResourceForeground": "#addb67ff",
     "gitDecoration.ignoredResourceForeground": "#395a75",
