@@ -15,6 +15,10 @@
     "High contrast",
     "Outerspace Next"
   ],
+  "galleryBanner": {
+    "color": "#001628",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/konradkeska/outerspace-next"
