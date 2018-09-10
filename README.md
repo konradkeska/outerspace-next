@@ -26,7 +26,6 @@ This theme is sort of a mix up of the ones I listed above. Basically I just took
 I've tested so far:
 
 - **JavaScript**
-- **TypeScript**
 - **CSS**
 - **SCSS**
 - **SASS**
