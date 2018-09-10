@@ -1,3 +1,5 @@
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/logo.png)
+
 # Outerspace Next
 
 Dark high contrast theme with fluo green as main color, really good for those who like to code at night.
