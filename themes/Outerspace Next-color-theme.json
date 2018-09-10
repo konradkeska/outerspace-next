@@ -24,6 +24,34 @@
       }
     },
     {
+      "name": "C# Readwrite Variables",
+      "scope": "variable.other.readwrite.cs",
+      "settings": {
+        "foreground": "#d6deeb"
+      }
+    },
+    {
+      "name": "C# Classes",
+      "scope": ["entity.name.type.class.cs"],
+      "settings": {
+        "foreground": "#FFCA28"
+      }
+    },
+    {
+      "name": "Storage types",
+      "scope": ["storage.type.cs"],
+      "settings": {
+        "foreground": "#82AAFF"
+      }
+    },
+    {
+      "name": "C# Namespaces",
+      "scope": "entity.name.type.namespace.cs",
+      "settings": {
+        "foreground": "#B2CCD6"
+      }
+    },
+    {
       "name": "Punctuation Tweaks",
       "scope": [
         "punctuation.terminator.expression",
