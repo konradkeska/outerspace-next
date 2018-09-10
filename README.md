@@ -1,3 +1,9 @@
+## Screenshots
+
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/js-react.png)
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/scss.png)
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/json.png)
+
 # Outerspace Next
 
 Dark high contrast theme with fluo green as main color, really good for those who like to code at night.
@@ -14,12 +20,6 @@ but, also:
 - **Nord**
 
 This theme is sort of a mix up of the ones I listed above. Basically I just took what I liked the most from those themes and customised them a little more.
-
-## Screenshots
-
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/js-react.png)
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/scss.png)
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/json.png)
 
 ## Syntax support
 
