@@ -3,9 +3,9 @@
 [![installs](https://vsmarketplacebadge.apphb.com/installs/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 [![rating](https://vsmarketplacebadge.apphb.com/rating/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/js-react.jpg)
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/scss.jpg)
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/json.jpg)
+![Preview](images/js-react.jpg)
+![Preview](images/scss.jpg)
+![Preview](images/json.jpg)
 
 Dark high contrast theme with fluo green as main color, really good for those who like to code at night.
 
