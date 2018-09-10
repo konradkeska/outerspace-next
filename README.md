@@ -1,6 +1,8 @@
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/logo.png)
+# Outerspace Next theme for VS Code
 
-# Outerspace Next
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/js-react.png)
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/scss.png)
+![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/json.png)
 
 Dark high contrast theme with fluo green as main color, really good for those who like to code at night.
 
@@ -15,20 +17,13 @@ but, also:
 - **Cobalt2**
 - **Nord**
 
-This theme is sort of a mix up of the ones I listed above. Basically I just took what I liked the most from those themes and customised it a little more.
-
-## Screenshots
-
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/js-react.png)
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/scss.png)
-![Preview](https://github.com/konradkeska/outerspace-next/blob/master/images/json.png)
+This theme is sort of a mix up of the ones I listed above. Basically I just took what I liked the most from those themes and customised them a little more.
 
 ## Syntax support
 
 I've tested so far:
 
 - **JavaScript**
-- **TypeScript**
 - **CSS**
 - **SCSS**
 - **SASS**
@@ -47,4 +42,4 @@ If you feel like something is missing, open an issue or write to me, I will glad
 
 ## Contribution
 
-1. If you don't like something or have some proposals feel free to open an issue, I'll get to it as soon as possible.
+If you don't like something or have some proposals feel free to open an issue, I'll get to it as soon as possible.
