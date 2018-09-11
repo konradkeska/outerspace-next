@@ -1,15 +1,18 @@
-# Outerspace Next theme for VS Code
+# Outerspace Next theme for VS Code 🦄
 
 [![installs](https://vsmarketplacebadge.apphb.com/installs/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 [![rating](https://vsmarketplacebadge.apphb.com/rating/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 
 ### JavaScript (React)
+
 ![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/js-react.jpg)
 
 ### SCSS
+
 ![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/scss.jpg)
 
 ### JSON
+
 ![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/json.jpg)
 
 Dark high contrast theme with fluo green as main color, really good for those who like to code at night.
