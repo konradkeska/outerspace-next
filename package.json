@@ -5,7 +5,7 @@
   "version": "0.5.0",
   "publisher": "konradkeska",
   "engines": {
-    "vscode": "^1.27.0"
+    "vscode": "^1.17.0"
   },
   "icon": "images/logo.png",
   "keywords": [
