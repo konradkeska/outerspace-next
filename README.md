@@ -41,9 +41,9 @@ I've tested so far:
 - **LESS**
 - **C#**
 
-If you feel like something is missing, open an issue or write to me, I will gladly consider some modifications.
+If you feel like some language syntax is missing, open an issue or write to me, I will add it.
 
-# Installation
+## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Outerspace Next`
@@ -51,6 +51,33 @@ If you feel like something is missing, open an issue or write to me, I will glad
 4. Click **Reload**
 5. Code > Preferences > Color Theme > **Outerspace Next**
 
+## Recommended
+
+### Settings
+
+```json
+{
+  "workbench.sideBar.location": "left",
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.editor.tabCloseButton": "off",
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "solid",
+  "editor.minimap.enabled": true,
+  "editor.snippetSuggestions": "top",
+  "editor.renderWhitespace": "none",
+  "editor.colorDecorators": false,
+  "npm.enableScriptExplorer": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.iconTheme": "vscode-great-icons"
+}
+```
+
+### Extensions
+
+- [**Color Highlight**](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - nice highlight for colors
+- [**VSCode Great Icons**](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - icons that fit theme nicely
+- [**Sublime Babel**](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) - better syntax highlight
+- [**Trailing Spaces**](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - keep your spaces clean
 ## Contribution
 
 If you don't like something or have some proposals feel free to open an issue, I'll get to it as soon as possible.
