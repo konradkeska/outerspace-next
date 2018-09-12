@@ -2,6 +2,7 @@
 
 [![installs](https://vsmarketplacebadge.apphb.com/installs/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 [![rating](https://vsmarketplacebadge.apphb.com/rating/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
+[![version](https://vsmarketplacebadge.apphb.com/version/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)]
 
 ### JavaScript (React)
 
@@ -14,6 +15,8 @@
 ### JSON
 
 ![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/json.jpg)
+
+## About
 
 Dark high contrast theme with fluo green as main color, really good for those who like to code at night.
 
@@ -35,11 +38,13 @@ This theme is sort of a mix up of the ones I listed above. Basically I just took
 I've tested so far:
 
 - **JavaScript**
+- **TypeScript**
+- **Python**
+- **C#**
 - **CSS**
 - **SCSS**
 - **SASS**
 - **LESS**
-- **C#**
 
 If you feel like some language syntax is missing, open an issue or write to me, I will add it.
 
@@ -55,7 +60,7 @@ If you feel like some language syntax is missing, open an issue or write to me, 
 
 ### Settings
 
-```json
+```js
 {
   "workbench.sideBar.location": "left",
   "workbench.editor.tabSizing": "shrink",
@@ -66,9 +71,12 @@ If you feel like some language syntax is missing, open an issue or write to me, 
   "editor.snippetSuggestions": "top",
   "editor.renderWhitespace": "none",
   "editor.colorDecorators": false,
+  "editor.overviewRulerBorder": false,
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "editor.scrollbar.vertical": "hidden",
   "npm.enableScriptExplorer": true,
   "files.trimTrailingWhitespace": true,
-  "workbench.iconTheme": "vscode-great-icons"
+  "workbench.iconTheme": "vscode-great-icons",
 }
 ```
 
@@ -78,6 +86,7 @@ If you feel like some language syntax is missing, open an issue or write to me, 
 - [**VSCode Great Icons**](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - icons that fit theme nicely
 - [**Sublime Babel**](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) - better syntax highlight
 - [**Trailing Spaces**](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - keep your spaces clean
+
 ## Contribution
 
 If you don't like something or have some proposals feel free to open an issue, I'll get to it as soon as possible.
