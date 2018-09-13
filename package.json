@@ -1,9 +1,9 @@
 {
   "name": "outerspace-next",
   "displayName": "Outerspace Next",
-  "description": "Dark high contrast theme with jade green as primary color, really good for those who like to code at night.",
+  "description": "Dark, minimalistic theme with jade green as primary color. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well 🔥.",
   "version": "0.9.0",
-  "publisher": "konradkeska",
+  "publisher": "Konrad Keska",
   "engines": {
     "vscode": "^1.17.0"
   },
@@ -11,7 +11,7 @@
   "keywords": [
     "Color theme",
     "Dark theme",
-    "FluoGreen",
+    "Jade Green",
     "High contrast",
     "Outerspace Next"
   ],

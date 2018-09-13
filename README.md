@@ -2,19 +2,11 @@
 
 [![installs](https://vsmarketplacebadge.apphb.com/installs/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 [![rating](https://vsmarketplacebadge.apphb.com/rating/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
-[![version](https://vsmarketplacebadge.apphb.com/version/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)]
+[![version](https://vsmarketplacebadge.apphb.com/version/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 
-### JavaScript (React)
+### How it looks
 
-![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/js-react.jpg)
-
-### SCSS
-
-![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/scss.jpg)
-
-### JSON
-
-![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/json.jpg)
+![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/example.jpg)
 
 ## About
 
