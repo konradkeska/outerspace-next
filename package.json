@@ -3,7 +3,7 @@
   "displayName": "Outerspace Next",
   "description": "Dark, minimalistic theme with jade green as primary color. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well 🔥.",
   "version": "0.10.0",
-  "publisher": "Konrad Keska",
+  "publisher": "konradkeska",
   "engines": {
     "vscode": "^1.17.0"
   },
