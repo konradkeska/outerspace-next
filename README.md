@@ -10,7 +10,7 @@
 
 ## About
 
-Dark high contrast theme with fluo green as main color, really good for those who like to code at night.
+Dark, minimalistic theme with jade green as primary color. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well 🔥.
 
 This theme is a mix-up of popular themes I've used before but I felt something was missing in each one of those, my biggest inspiration was:
 
