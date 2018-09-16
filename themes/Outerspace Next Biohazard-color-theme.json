@@ -6,14 +6,14 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#B1CCC040" //65737e
+        "foreground": "#B1CCC040"
       }
     },
     {
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#ccddd5" //ccd dd5
+        "foreground": "#ccddd5"
       }
     },
     {
@@ -205,7 +205,7 @@
         "markup.changed.git_gutter"
       ],
       "settings": {
-        "foreground": "#FFEB95" //ffca28
+        "foreground": "#FFEB95"
       }
     },
     {
@@ -426,23 +426,23 @@
     }
   ],
   "colors": {
-    "scrollbarSlider.activeBackground": "#FCE74B45", // fde 74c
+    "scrollbarSlider.activeBackground": "#FCE74B45",
     "scrollbarSlider.background": "#FCE74B45",
     "scrollbarSlider.hoverBackground": "#FCE74B55",
-    "editor.background": "#17252D", //17252D , 1b1 428 571F4E 17252D
+    "editor.background": "#17252D",
     "editorCursor.foreground": "#ccddd5",
     "editor.foreground": "#ccddd5",
     "editorWhitespace.foreground": "#65737e",
     "editor.lineHighlightBackground": "#282D3895",
-    "editorLineNumber.activeForeground": "#FCE74Bcc", // ef2 d56
+    "editorLineNumber.activeForeground": "#FCE74Bcc",
     "editorLineNumber.foreground": "#B1CCC035",
     "editor.selectionBackground": "#FCE74B50",
     "editorIndentGuide.background": "#21364266",
     "editorIndentGuide.activeBackground": "#213642",
-    "sideBar.background": "#17252D", // 181 123
+    "sideBar.background": "#17252D",
     "sideBar.foreground": "#B1CCC091",
     "sideBarSectionHeader.background": "#17252D",
-    "sideBarSectionHeader.foreground": "#FCE74B", //ff3 816
+    "sideBarSectionHeader.foreground": "#FCE74B",
     "sideBar.dropBackground": "#213642",
     "widget.shadow": "#17252D",
     "activityBar.background": "#17252D",
@@ -489,9 +489,9 @@
     "statusBar.noFolderBackground": "#17252D",
     "statusBar.noFolderBorder": "#21364299",
     "statusBar.foreground": "#FCE74B",
-    "tab.activeBackground": "#17252D", //17252D
-    "tab.inactiveBackground": "#17252D", //17252D
-    "tab.border": "#17252D", //17252D
+    "tab.activeBackground": "#17252D",
+    "tab.inactiveBackground": "#17252D",
+    "tab.border": "#17252D",
     "tab.unfocusedInactiveForeground": "#B1CCC085",
     "tab.unfocusedActiveForeground": "#FCE74B90",
     "tab.inactiveForeground": "#B1CCC085",

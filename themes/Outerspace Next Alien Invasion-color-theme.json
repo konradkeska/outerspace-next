@@ -205,7 +205,7 @@
         "markup.changed.git_gutter"
       ],
       "settings": {
-        "foreground": "#FFEB95" //ffca28
+        "foreground": "#FFEB95"
       }
     },
     {
@@ -429,12 +429,12 @@
     "scrollbarSlider.activeBackground": "#36ED8245",
     "scrollbarSlider.background": "#36ED8245",
     "scrollbarSlider.hoverBackground": "#36ED8255",
-    "editor.background": "#001628", //001 01e , 001 628
+    "editor.background": "#001628",
     "editorCursor.foreground": "#CCDDD5",
     "editor.foreground": "#CCDDD5",
     "editorWhitespace.foreground": "#65737e",
     "editor.lineHighlightBackground": "#282D3895",
-    "editorLineNumber.activeForeground": "#36ED82cc", //0da b76
+    "editorLineNumber.activeForeground": "#36ED82cc",
     "editorLineNumber.foreground": "#B1CCC035",
     "editor.selectionBackground": "#36ED8250",
     "editorIndentGuide.background": "#122d4266",
