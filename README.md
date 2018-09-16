@@ -1,16 +1,26 @@
-# Outerspace Next theme for VS Code 🦄
+# Outerspace Next themes for VS Code 🦄
 
 [![installs](https://vsmarketplacebadge.apphb.com/installs/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 [![rating](https://vsmarketplacebadge.apphb.com/rating/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 [![version](https://vsmarketplacebadge.apphb.com/version/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 
-### How it looks
+## Examples
 
-![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/example.jpg)
+### Alien Invasion
+
+![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/alieninvasion.png)
+
+### Meteor Glacier
+
+![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/meteorglacier.png)
+
+### Biohazard
+
+![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/biohazard.png)
 
 ## About
 
-Dark, minimalistic theme with jade green as primary color. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well 🔥.
+Dark, minimalistic themes with bright neon primary colors. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well 🔥.
 
 This theme is a mix-up of popular themes I've used before but I felt something was missing in each one of those, my biggest inspiration was:
 
@@ -20,10 +30,8 @@ but, also:
 
 - [**Cyber Punk**](https://github.com/prometheux-ar/cyberpunk)
 - [**Oceanic Next**](https://github.com/mhartington/oceanic-next)
-- [**Cobalt2**](https://github.com/wesbos/cobalt2-vscode)
-- [**Nord**](https://github.com/arcticicestudio/nord)
 
-This theme is sort of a mix up of the ones I listed above. Basically I just took what I liked the most from those themes and customised them a little more.
+Thanks to authors of those unique themes. This theme is sort of a mix up of the ones I listed above. Basically I just took what I liked the most from those themes and customised mine a little bit more.
 
 ## Syntax support
 
@@ -54,20 +62,23 @@ If you feel like some language syntax is missing, open an issue or write to me, 
 
 ```js
 {
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "solid",
+  "editor.colorDecorators": false,
+  "editor.fontSize": 17,
+  "editor.lineHeight": 24.5,
+  "editor.letterSpacing": 0.5,
+  "editor.minimap.enabled": true,
+  "editor.overviewRulerBorder": false,
+  "editor.renderWhitespace": "none",
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.snippetSuggestions": "top",
+  "files.trimTrailingWhitespace": true,
+  "npm.enableScriptExplorer": true,
   "workbench.sideBar.location": "left",
   "workbench.editor.tabSizing": "shrink",
   "workbench.editor.tabCloseButton": "off",
-  "editor.cursorStyle": "line",
-  "editor.cursorBlinking": "solid",
-  "editor.minimap.enabled": true,
-  "editor.snippetSuggestions": "top",
-  "editor.renderWhitespace": "none",
-  "editor.colorDecorators": false,
-  "editor.overviewRulerBorder": false,
-  "editor.scrollbar.verticalScrollbarSize": 0,
-  "editor.scrollbar.vertical": "hidden",
-  "npm.enableScriptExplorer": true,
-  "files.trimTrailingWhitespace": true,
   "workbench.iconTheme": "vscode-great-icons",
 }
 ```

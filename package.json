@@ -1,7 +1,7 @@
 {
   "name": "outerspace-next",
   "displayName": "Outerspace Next",
-  "description": "Dark, minimalistic theme with jade green as primary color. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well 🔥.",
+  "description": "Dark, minimalistic themes with bright neon primary colors. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well 🔥.",
   "version": "0.11.0",
   "publisher": "konradkeska",
   "engines": {
@@ -29,10 +29,25 @@
   "contributes": {
     "themes": [
       {
-        "label": "Outerspace Next",
+        "label": "Outerspace Next Alien Invasion",
         "uiTheme": "vs-dark",
-        "path": "./themes/Outerspace Next-color-theme.json"
+        "path": "./themes/Outerspace Next Alien Invasion-color-theme.json"
+      },
+      {
+        "label": "Outerspace Next Meteor Glacier",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Outerspace Next Meteor Glacier-color-theme.json"
+      },
+      {
+        "label": "Outerspace Next Biohazard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Outerspace Next Biohazard-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "cfe37a0b-9431-4b8d-8f68-e521d80f2471",
+    "publisherId": "b1b27245-9a20-491c-bd78-b91e8b3753ae",
+    "publisherDisplayName": "konradkeska"
   }
 }
