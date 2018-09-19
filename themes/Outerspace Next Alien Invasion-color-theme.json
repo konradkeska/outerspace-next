@@ -117,7 +117,7 @@
       "name": "Attribute Name for LESS",
       "scope": "meta.attribute-selector.less entity.other.attribute-name.attribute",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#ffeb95"
       }
     },
     {
@@ -127,7 +127,7 @@
         "meta.attribute-selector.scss entity.other.attribute-name.attribute"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#ffeb95"
       }
     },
     {
@@ -159,10 +159,17 @@
       }
     },
     {
+      "name": "Keyword Other Unit",
+      "scope": "keyword.other.unit",
+      "settings": {
+        "foreground": "#FFEB95"
+      }
+    },
+    {
       "name": "CSS Keyword Other Unit",
       "scope": "keyword.other.unit.css",
       "settings": {
-        "foreground": "#EC5F67"
+        "foreground": "#ffeb95"
       }
     },
     {
@@ -181,11 +188,17 @@
         "meta.use.php",
         "support.class",
         "support.orther.namespace.use.php",
-        "support.other.namespace.php",
-        "support.type"
+        "support.other.namespace.php"
       ],
       "settings": {
         "foreground": "#FFCA28"
+      }
+    },
+    {
+      "name": "Support type",
+      "scope": ["support.type"],
+      "settings": {
+        "foreground": "#ffeb95"
       }
     },
     {
@@ -281,7 +294,7 @@
       "name": "Keyword Other Unit",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#EC5F67"
+        "foreground": "#ffeb95"
       }
     },
     {
@@ -295,14 +308,14 @@
       "name": "LESS Keyword Other Unit",
       "scope": "keyword.other.unit.css",
       "settings": {
-        "foreground": "#EC5F67"
+        "foreground": "#ffeb95"
       }
     },
     {
       "name": "LESS Keyword Other Unit",
       "scope": "keyword.other.unit.css",
       "settings": {
-        "foreground": "#EC5F67"
+        "foreground": "#ffeb95"
       }
     },
     {
@@ -338,12 +351,17 @@
         "constant.character",
         "constant.language",
         "constant.numeric",
-        "keyword.other.unit",
-        "support.constant",
         "variable.parameter"
       ],
       "settings": {
         "foreground": "#F78C6C"
+      }
+    },
+    {
+      "name": "Parameter",
+      "scope": ["support.constant"],
+      "settings": {
+        "foreground": "#addb67"
       }
     },
     {
@@ -397,7 +415,7 @@
       "name": "SASS Keyword Other Unit",
       "scope": ["keyword.other.unit.sass", "keyword.other.unit.scss"],
       "settings": {
-        "foreground": "#EC5F67"
+        "foreground": "#ffeb95"
       }
     },
     {
@@ -409,7 +427,7 @@
         "variable.scss"
       ],
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#CCDDD5"
       }
     },
     {
