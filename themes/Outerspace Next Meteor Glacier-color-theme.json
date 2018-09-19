@@ -3,8 +3,8 @@
   "type": "dark",
   "colors": {
     "activityBar.background": "#191324",
-    "activityBar.foreground": "#ccddd550",
-    "activityBarBadge.background": "#82d8d8",
+    "activityBar.foreground": "#CCDDD570",
+    "activityBarBadge.background": "#82d8d8ee",
     "activityBarBadge.foreground": "#191324",
     "badge.background": "#82d8d8",
     "badge.foreground": "#191324",
@@ -23,7 +23,7 @@
     "editorGroupHeader.tabsBackground": "#191324",
     "editorIndentGuide.activeBackground": "#373142",
     "editorIndentGuide.background": "#37314266",
-    "editorLineNumber.activeForeground": "#82d8d8cc",
+    "editorLineNumber.activeForeground": "#82d8d8ee",
     "editorLineNumber.foreground": "#B1CCC035",
     "editorOverviewRuler.errorForeground": "#EF5350",
     "editorSuggestWidget.background": "#191324",
@@ -47,14 +47,14 @@
     "inputValidation.errorBackground": "#EF535095",
     "inputValidation.infoBackground": "#1F2041",
     "list.activeSelectionBackground": "#191324",
-    "list.activeSelectionForeground": "#ccddd5",
+    "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#191324",
     "list.errorForeground": "#EF5350",
     "list.focusBackground": "#191324",
-    "list.focusForeground": "#ccddd5",
-    "list.highlightForeground": "#ccddd5",
+    "list.focusForeground": "#FFFFFF",
+    "list.highlightForeground": "#FFFFFF",
     "list.hoverBackground": "#191324",
-    "list.hoverForeground": "#ccddd5",
+    "list.hoverForeground": "#FFFFFF",
     "list.inactiveFocusBackground": "#191324",
     "list.inactiveSelectionBackground": "#191324",
     "list.inactiveSelectionForeground": "#ccddd5",
@@ -73,11 +73,11 @@
     "scrollbarSlider.hoverBackground": "#82d8d855",
     "sideBar.background": "#191324",
     "sideBar.dropBackground": "#373142",
-    "sideBar.foreground": "#B1CCC095",
+    "sideBar.foreground": "#B1CCC099",
     "sideBarSectionHeader.background": "#191324",
-    "sideBarSectionHeader.foreground": "#82d8d8",
+    "sideBarSectionHeader.foreground": "#82d8d8ee",
     "statusBar.background": "#191324",
-    "statusBar.foreground": "#ccddd550",
+    "statusBar.foreground": "#CCDDD570",
     "statusBar.noFolderBackground": "#191324",
     "statusBar.noFolderBorder": "#37314299",
     "tab.activeBackground": "#191324",
@@ -185,7 +185,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#FFEB95"
+        "foreground": "#FFCA28"
       }
     },
     {
@@ -193,7 +193,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#3F384C"
+        "foreground": "#B1CCC066"
       }
     },
     {
