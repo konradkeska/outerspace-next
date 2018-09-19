@@ -235,12 +235,18 @@
         "entity.name.function",
         "keyword.other.special-method",
         "meta.block-level",
-        "meta.function-call",
         "support.function",
         "variable.function"
       ],
       "settings": {
         "foreground": "#82AAFF"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["meta.function-call"],
+      "settings": {
+        "foreground": "#CCDDD5"
       }
     },
     {
