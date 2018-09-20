@@ -42,6 +42,11 @@
         "label": "Outerspace Next Biohazard",
         "uiTheme": "vs-dark",
         "path": "./themes/Outerspace Next Biohazard-color-theme.json"
+      },
+      {
+        "label": "Outerspace Next Unicorn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Outerspace Next Unicorn-color-theme.json"
       }
     ]
   },
