@@ -4,11 +4,15 @@
 [![rating](https://vsmarketplacebadge.apphb.com/rating/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 [![version](https://vsmarketplacebadge.apphb.com/version/konradkeska.outerspace-next.svg)](https://marketplace.visualstudio.com/items?itemName=konradkeska.outerspace-next)
 
-## Examples
+## Theme samples
 
 ### Alien Invasion
 
 ![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/alieninvasion.png)
+
+### Unicorn
+
+![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/unicorn.png)
 
 ### Meteor Glacier
 
