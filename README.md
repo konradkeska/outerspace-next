@@ -18,10 +18,6 @@
 
 ![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/meteorglacier.png)
 
-### Biohazard
-
-![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/biohazard.png)
-
 ## About
 
 Dark, minimalistic themes with bright neon primary colors. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well 🔥.
