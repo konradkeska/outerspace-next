@@ -1,7 +1,7 @@
 {
   "name": "outerspace-next",
   "displayName": "Outerspace Next",
-  "description": "Dark, minimalistic themes with bright neon primary colors. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well 🔥.",
+  "description": "Dark, minimalistic themes with bright neon primary colors. Theme is excellent for those who like to code long hours at low light conditions since it's easy on the eyes, have good contrast and remain cool appearance as well🔥.",
   "version": "1.8.0",
   "publisher": "konradkeska",
   "engines": {
@@ -34,9 +34,9 @@
         "path": "./themes/Outerspace Next Alien Invasion-color-theme.json"
       },
       {
-        "label": "Outerspace Next Meteor Glacier",
+        "label": "Outerspace Next Frostbane",
         "uiTheme": "vs-dark",
-        "path": "./themes/Outerspace Next Meteor Glacier-color-theme.json"
+        "path": "./themes/Outerspace Next Frostbane-color-theme.json"
       },
       {
         "label": "Outerspace Next Unicorn",

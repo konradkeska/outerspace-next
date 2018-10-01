@@ -6,6 +6,10 @@
 
 ## Theme samples
 
+### Frostbane (NEW 🔥)
+
+![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/frostbane.png)
+
 ### Alien Invasion
 
 ![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/alieninvasion.png)
@@ -13,10 +17,6 @@
 ### Unicorn
 
 ![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/unicorn.png)
-
-### Meteor Glacier
-
-![Preview](https://raw.githubusercontent.com/konradkeska/outerspace-next/master/images/meteorglacier.png)
 
 ## About
 
@@ -32,6 +32,10 @@ but, also:
 - [**Oceanic Next**](https://github.com/mhartington/oceanic-next)
 
 Thanks to authors of those unique themes. This theme is sort of a mix up of the ones I listed above. Basically I just took what I liked the most from those themes and customised mine a little bit more.
+
+## Font
+
+The font I use in the theme samples section is **Dank Mono** which is available to purchase - [here](https://dank.sh/).
 
 ## Syntax support
 
@@ -79,7 +83,13 @@ If you feel like some language syntax is missing, open an issue or write to me, 
   "workbench.sideBar.location": "left",
   "workbench.editor.tabSizing": "shrink",
   "workbench.editor.tabCloseButton": "off",
-  "workbench.iconTheme": "vscode-great-icons",
+  "breadcrumbs.enabled": false,
+  // memorise keyboard shortcuts
+  "workbench.activityBar.visible": false,
+  "explorer.openEditors.visible": 0,
+  "workbench.statusBar.visible": false,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "none"
 }
 ```
 
