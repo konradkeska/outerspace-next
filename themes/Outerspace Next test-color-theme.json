@@ -62,17 +62,17 @@
     "inputValidation.errorBackground": "#EF535095",
     "inputValidation.infoBackground": "#1F2041",
     "list.activeSelectionBackground": "#001E38",
-    "list.activeSelectionForeground": "#C9CBDB",
+    "list.activeSelectionForeground": "#FFFFFF",
     "list.dropBackground": "#001E38",
     "list.errorForeground": "#EF5350",
     "list.focusBackground": "#001E38",
-    "list.focusForeground": "#C9CBDB",
-    "list.highlightForeground": "#C9CBDB",
+    "list.focusForeground": "#FFFFFF",
+    "list.highlightForeground": "#FFFFFF",
     "list.hoverBackground": "#001628",
     "list.hoverForeground": "#FFFFFF",
     "list.inactiveFocusBackground": "#001E38",
     "list.inactiveSelectionBackground": "#001E38",
-    "list.inactiveSelectionForeground": "#C9CBDB",
+    "list.inactiveSelectionForeground": "#FFFFFF",
     "list.warningForeground": "#FFCA28",
     "panel.background": "#001323",
     "panel.border": "#001628",
@@ -83,9 +83,9 @@
     "pickerGroup.border": "#122d4299",
     "pickerGroup.foreground": "#C9CBDB",
     "scrollbar.shadow": "#001628",
-    "scrollbarSlider.activeBackground": "#001E3895",
-    "scrollbarSlider.background": "#001E3895",
-    "scrollbarSlider.hoverBackground": "#001E38ff",
+    "scrollbarSlider.activeBackground": "#C9CBDB35",
+    "scrollbarSlider.background": "#C9CBDB35",
+    "scrollbarSlider.hoverBackground": "#C9CBDB45",
     "sideBar.background": "#001323",
     "sideBar.border": "#001628",
     "sideBar.dropBackground": "#122d42",
@@ -97,11 +97,11 @@
     "statusBar.noFolderBackground": "#00101E",
     "statusBar.noFolderBorder": "#122d4299",
     "tab.activeBackground": "#001E38",
-    "tab.activeForeground": "#C9CBDB",
+    "tab.activeForeground": "#FFFFFF",
     "tab.border": "#00101E",
     "tab.inactiveBackground": "#00101E",
     "tab.inactiveForeground": "#5f7e97",
-    "tab.unfocusedActiveForeground": "#C9CBDB90",
+    "tab.unfocusedActiveForeground": "#FFFFFF90",
     "tab.unfocusedInactiveForeground": "#C9CBDBdd",
     "terminal.ansiBlack": "#00101E",
     "terminal.ansiBlue": "#7FA0E8",
@@ -131,21 +131,21 @@
   "tokenColors": [
     {
       "name": "punctuation.definition",
-      "scope": "punctuation.definition.string.begin,punctuation.definition.string.end,punctuation.definition.dictionary,punctuation.separator.dictionary,punctuation.definition.array,punctuation.separator.array,punctuation.definition.keyword,punctuation.terminator.rule,punctuation.definition.entity.css,meta.delimiter.comma,punctuation.separator.parameter.function,punctuation.section.property-list,keyword.operator.new,support.function.node",
+      "scope": "source.js, punctuation.definition.string.begin,punctuation.definition.string.end,punctuation.definition.dictionary,punctuation.separator.dictionary,punctuation.definition.array,punctuation.separator.array,punctuation.definition.keyword,punctuation.terminator.rule,punctuation.definition.entity.css,meta.delimiter.comma,punctuation.separator.parameter.function,punctuation.section.property-list,keyword.operator.new,keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.expression.typeof,keyword.operator.expression.void",
       "settings": {
         "foreground": "#46647F"
       }
     },
     {
       "name": "String unquoted",
-      "scope": ["string.unquoted.label", "support.type.object.module"],
+      "scope": ["string.unquoted.label", "meta.property.object",  "support.type.object.module"],
       "settings": {
         "foreground": "#C9CBDB"
       }
     },
     {
       "name": "Text",
-      "scope": "variable.parameter.function",
+      "scope": "variable, variable.parameter.function",
       "settings": {
         "foreground": "#C9CBDB"
       }
@@ -218,7 +218,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#e591ff"
+        "foreground": "#DB7897"
       }
     },
     {
@@ -307,13 +307,6 @@
       }
     },
     {
-      "name": "js/ts Keyword",
-      "scope": "keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.ternary",
-      "settings": {
-        "foreground": "#ac70fc"
-      }
-    },
-    {
       "name": "js/ts console",
       "scope": "support.type.object.console",
       "settings": {
@@ -392,7 +385,7 @@
     },
     {
       "name": "Source js",
-      "scope": ["meta.brace", "source.js"],
+      "scope": ["meta.brace"],
       "settings": {
         "foreground": "#C9CBDB"
       }
@@ -402,13 +395,6 @@
       "scope": "keyword.operator.arithmetic,keyword.operator.comparison, keyword.operator.relational, keyword.operator.bitwise,keyword.operator.arithmetic,keyword.operator.logical",
       "settings": {
         "foreground": "#A9DBA4"
-      }
-    },
-    {
-      "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
-      "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
-      "settings": {
-        "foreground": "#a68ea1"
       }
     },
     {
@@ -439,7 +425,8 @@
         "keyword.other.special-method",
         "meta.block-level",
         "support.function",
-        "variable.function"
+        "variable.function",
+        "support.function.node"
       ],
       "settings": {
         "foreground": "#7FA0E8"
@@ -513,13 +500,6 @@
       "scope": "keyword.control",
       "settings": {
         "foreground": "#A9DBA4"
-      }
-    },
-    {
-      "name": "Keyword Control Conditional",
-      "scope": "keyword.control.conditional",
-      "settings": {
-        "foreground": "#46647F"
       }
     },
     {
@@ -615,9 +595,9 @@
     },
     {
       "name": "Boolean",
-      "scope": "none",
+      "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#DBC699"
+        "foreground": "#EFA483"
       }
     },
     {
@@ -636,7 +616,7 @@
     },
     {
       "name": "Tags",
-      "scope": "entity.name.tag, variable.other.class",
+      "scope": "entity.name.tag, variable.other.class, meta.instance.constructor",
       "settings": {
         "foreground": "#6877E8" // db7897
       }
