@@ -606,7 +606,7 @@
       "name": "Tags",
       "scope": "entity.name.tag, variable.other.class, meta.instance.constructor, storage.type.cs, support.class.component",
       "settings": {
-        "foreground": "#DBC699" //706DFF
+        "foreground": "#706DFF"
       }
     },
     {
