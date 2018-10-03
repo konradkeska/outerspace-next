@@ -504,18 +504,25 @@
         "foreground": "#c792ea"
       }
     },
-    // {
-    //   "name": "Storage modifier",
-    //   "scope": "storage.modifier",
-    //   "settings": {
-    //     "foreground": "#ADDB76"
-    //   }
-    // },
     {
       "name": "Namespace",
       "scope": "entity.name.type.namespace.cs",
       "settings": {
         "foreground": "#7EEAD6"
+      }
+    },
+    {
+      "name": "Storage modifier",
+      "scope": "storage.modifier",
+      "settings": {
+        "foreground": "#A9DBA4"
+      }
+    },
+    {
+      "name": "Namespace",
+      "scope": "entity.name.type.namespace.cs",
+      "settings": {
+        "foreground": "#8CFFEB"
       }
     },
     {
@@ -599,7 +606,7 @@
       "name": "Tags",
       "scope": "entity.name.tag, variable.other.class, meta.instance.constructor, storage.type.cs, support.class.component",
       "settings": {
-        "foreground": "#706DFF"
+        "foreground": "#DBC699" //706DFF
       }
     },
     {
