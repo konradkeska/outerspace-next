@@ -95,14 +95,14 @@
     "terminal.ansiBlue": "#82AAFF",
     "terminal.ansiBrightBlack": "#00101E",
     "terminal.ansiBrightBlue": "#82AAFF",
-    "terminal.ansiBrightCyan": "#7EEAD6",
-    "terminal.ansiBrightGreen": "#ADDB76",
+    "terminal.ansiBrightCyan": "#ADDB76",
+    "terminal.ansiBrightGreen": "#7EEAD6",
     "terminal.ansiBrightMagenta": "#c792ea",
     "terminal.ansiBrightRed": "#FF7572",
     "terminal.ansiBrightWhite": "#C9CCDB",
     "terminal.ansiBrightYellow": "#ffeb95",
     "terminal.ansiCyan": "#21c7a8",
-    "terminal.ansiGreen": "#ADDB76",
+    "terminal.ansiGreen": "#7EEAD6",
     "terminal.ansiMagenta": "#c792ea",
     "terminal.ansiRed": "#FF7572",
     "terminal.ansiWhite": "#C9CCDB",
@@ -133,7 +133,9 @@
         "meta.scriptblock.powershell",
         "meta.jsx.js",
         "entity.name.variable.property",
-        "keyword.other"
+        "keyword.other",
+        "variable.other.class",
+        "meta.instance.constructor"
       ],
       "settings": {
         "foreground": "#C9CCDB"
@@ -339,6 +341,7 @@
         "punctuation.definition.tag.html",
         "punctuation.definition.parameters",
         "punctuation.terminator.statement",
+        "meta.brace",
         "meta.brace.curly",
         "meta.brace.square",
         "punctuation.definition.string"
@@ -349,7 +352,7 @@
     },
     {
       "name": "Operator punctuation",
-      "scope": ["keyword.operator", "punctuation.separator.key-value"],
+      "scope": ["keyword.operator"],
       "settings": {
         "foreground": "#55799B"
       }
@@ -362,17 +365,10 @@
       }
     },
     {
-      "name": "Source js",
-      "scope": ["meta.brace"],
-      "settings": {
-        "foreground": "#C9CCDB"
-      }
-    },
-    {
       "name": "Operators task",
-      "scope": "keyword.operator.accessor,keyword.operator.spread,keyword.operator.arithmetic,keyword.operator.comparison, keyword.operator.relational, keyword.operator.bitwise,keyword.operator.arithmetic,keyword.operator.logical,      keyword.operator.assignment,keyword.control.loop,keyword.control.powershell,keyword.operator.css,meta.property-list.scss,meta.property-list.sass,meta.property-list.less",
+      "scope": "keyword.operator.accessor,keyword.operator.spread,keyword.operator.arithmetic,keyword.operator.comparison, keyword.operator.relational, keyword.operator.bitwise,keyword.operator.arithmetic,keyword.operator.logical,      keyword.operator.assignment,keyword.control.loop,keyword.control.powershell,keyword.operator.css,meta.property-list.scss,meta.property-list.sass,meta.property-list.less, punctuation.separator.key-value",
       "settings": {
-        "foreground": "#ADDB76"
+        "foreground": "#7EEAD6"
       }
     },
     {
@@ -508,7 +504,7 @@
       "name": "Namespace",
       "scope": "entity.name.type.namespace.cs",
       "settings": {
-        "foreground": "#7EEAD6"
+        "foreground": "#ADDB76"
       }
     },
     {
@@ -571,7 +567,7 @@
       "name": "Strings, Inherited Class",
       "scope": "string, entity.other.inherited-class",
       "settings": {
-        "foreground": "#7EEAD6"
+        "foreground": "#ADDB76"
       }
     },
     {
@@ -604,7 +600,7 @@
     },
     {
       "name": "Tags",
-      "scope": "entity.name.tag, variable.other.class, meta.instance.constructor, storage.type.cs, support.class.component",
+      "scope": "entity.name.tag, storage.type.cs, support.class.component",
       "settings": {
         "foreground": "#706DFF"
       }
@@ -628,7 +624,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "foreground": "#7EEAD6"
+        "foreground": "#ADDB76"
       }
     },
     {
@@ -728,7 +724,7 @@
       "name": "Markdown Inline Raw",
       "scope": "markup.inline.raw.markdown",
       "settings": {
-        "foreground": "#7EEAD6"
+        "foreground": "#ADDB76"
       }
     },
     {
@@ -792,14 +788,14 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#7EEAD6"
+        "foreground": "#ADDB76"
       }
     },
     {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#7EEAD6"
+        "foreground": "#ADDB76"
       }
     },
     {
@@ -862,7 +858,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
       "scope": "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
       "settings": {
-        "foreground": "#7EEAD6"
+        "foreground": "#ADDB76"
       }
     },
     {
@@ -904,7 +900,7 @@
       "name": "rgb-value",
       "scope": "rgb-value",
       "settings": {
-        "foreground": "#7EEAD6"
+        "foreground": "#ADDB76"
       }
     },
     {
