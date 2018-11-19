@@ -119,7 +119,7 @@
   "tokenColors": [
     {
       "name": "punctuation.definition",
-      "scope": "source, punctuation.definition.string.begin,punctuation.definition.string.end,punctuation.definition.dictionary,punctuation.separator.dictionary,punctuation.definition.array,punctuation.separator.array,punctuation.definition.keyword,punctuation.terminator.rule,punctuation.definition.entity.css,meta.delimiter.comma,punctuation.separator.parameter.function,punctuation.section.property-list,keyword.operator.new,keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.expression.typeof,keyword.operator.expression.void,keyword.other.template,keyword.control.at-rule.import, keyword.other.namespace, keyword.other.using.cs, keyword.control.import, keyword.control.from,keyword.control.export, storage.modifier,storage.type.class, storage.type.function,keyword.control.conditional,keyword.control.switch, storage.type.js,punctuation.definition.pseudo-class.begin.bracket.round.css,punctuation.definition.pseudo-class.end.bracket.round.css,meta.property-value.scss,meta.property-value.sass,meta.property-value.less",
+      "scope": "source, punctuation.definition.string.begin,punctuation.definition.string.end,punctuation.definition.dictionary,punctuation.separator.dictionary,punctuation.definition.array,punctuation.separator.array,punctuation.definition.keyword,punctuation.terminator.rule,punctuation.definition.entity.css,meta.delimiter.comma,punctuation.separator.parameter.function,punctuation.section.property-list,keyword.operator.new,keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.expression.typeof,keyword.operator.expression.void,keyword.other.template,keyword.control.at-rule.import, keyword.other.namespace, keyword.other.using.cs, keyword.control.import, keyword.control.from,keyword.control.export, storage.modifier,storage.type.class, storage.type.function,keyword.control.conditional,keyword.control.switch, storage.type.js,punctuation.definition.pseudo-class.begin.bracket.round.css,punctuation.definition.pseudo-class.end.bracket.round.css,meta.property-value.scss,meta.property-value.sass,meta.property-value.less,storage.type.ts",
       "settings": {
         "foreground": "#55799B"
       }
@@ -135,7 +135,8 @@
         "entity.name.variable.property",
         "keyword.other",
         "variable.other.class",
-        "meta.instance.constructor"
+        "meta.instance.constructor",
+        "variable.other.constant.ts"
       ],
       "settings": {
         "foreground": "#C9CCDB"
@@ -214,7 +215,7 @@
     },
     {
       "name": "js/ts variable.other.constant",
-      "scope": "variable.other.constant",
+      "scope": ["variable.other.constant","constant.character.entity"],
       "settings": {
         "foreground": "#FF82A9"
       }
@@ -279,7 +280,7 @@
       "name": "js/ts template-expression",
       "scope": "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
       "settings": {
-        "foreground": "#7b79b5"
+        "foreground": "#FF82A9"
       }
     },
     {
@@ -473,7 +474,8 @@
         "keyword.other.substitution",
         "keyword.other.variable.definition.powershell",
         "keyword.other.array.begin.powershell",
-        "keyword.other.hashtable.begin.powershell"
+        "keyword.other.hashtable.begin.powershell",
+        "storage.modifier.async.ts"
       ],
       "settings": {
         "foreground": "#FF82A9"
@@ -609,7 +611,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#55799B",
+        "foreground": "#C9CCDB",
         "fontStyle": "italic"
       }
     },
